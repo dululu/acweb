@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "e0c6a2a7c71fc892",
+    "type": "split",
+    "children": [
+      {
+        "id": "a29e0bbf51badb48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d0a210a80e28ffe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "kof-master/static/images/player/kyo/6.gif"
+              },
+              "icon": "lucide-image",
+              "title": "6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85b811d588c55229",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd4254f797393ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b63a8d860b64c09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9702e2b287123eda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9610def8e6225b16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87b4fb036e4c8fb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee0c16fbf282c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cbecf369456c213",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kof-master/static/images/player/kyo/6.gif",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "6 的反向链接列表"
+            }
+          },
+          {
+            "id": "05fc219ceb684a82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kof-master/static/images/player/kyo/6.gif",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "6 的出链列表"
+            }
+          },
+          {
+            "id": "442693b3e86e632b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "43a3df8d13e87ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kof-master/static/images/player/kyo/6.gif",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "6 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8b63a8d860b64c09",
+  "lastOpenFiles": [
+    "kof-master/static/images/player/kyo/5.gif",
+    "kof-master/static/images/player/kyo/4.gif",
+    "kof-master/static/images/player/kyo/3.gif",
+    "kof-master/static/images/player/kyo/2.gif",
+    "kof-master/static/images/player/kyo/1.gif",
+    "kof-master/static/images/player/kyo/0.gif",
+    "kof-master/static/images/background/20110.jpg",
+    "kof-master/static/images/background/0.gif"
+  ]
+}
