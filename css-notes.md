@@ -37,9 +37,11 @@
 - `fixed` 固定定位，相对于浏览器窗口进行定位
 - `sticky` 粘性定位，相对于视口或父元素进行定位
 
-## position
+## 元素展示格式 
+- `block` 块级元素
+- `inline` 行内元素
+- `inline-block` 行内块级元素
 
-## inline-block
 
 ## 选择器
 ```css

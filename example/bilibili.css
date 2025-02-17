@@ -1,12 +1,131 @@
-.user-card{
+.user-card {
     width: 366px;
     height: 215px;
     box-shadow: 2px 2px 5px #ccc;
     border-radius: 5px;
+    margin: 20px auto;
 }
-.user-card-head{
+
+.user-card-head {
     background-image: url('/kof-master/static/images/background/20110.jpg');
     background-size: cover;
     width: 100%;
     height: 85px;
+}
+
+.user-card-body {
+    width: 100%;
+    height: calc(100% - 85px);
+    box-sizing: border-box;
+    padding-top: 12px;
+}
+
+.user-card-body-left {
+    width: 70px;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+
+.user-card-body-right {
+    width: calc(100% - 70px);
+    height: 100%;
+    float: left;
+    padding-bottom: 16px;
+}
+
+.user-card-body-right-text {
+    width: 100%;
+    height: 70%;
+}
+
+.user-card-body-left>img {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.user-card-body-right-text-username {
+    padding-left: 10px;
+    font-size: 16px;
+    color: #222222;
+    font-weight: bold;
+}
+
+.user-card-body-right-text-username>span {
+    color: #ff0000;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.user-card-body-right-text-reputation-item>span:nth-child(1) {
+    font-size: 12px;
+    color: #222222;
+
+}
+
+.user-card-body-right-text-reputation-item>span:nth-child(2) {
+    font-size: 12px;
+    color: #9499a0;
+}
+
+.user-card-body-right-text-reputation {
+    padding-top: 12px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+.user-card-body-right-text-reputation-item {
+    width: auto;
+    height: auto;
+    padding-right: 8px;
+
+}
+
+.user-card-body-right-text-signature {
+    color: #9499a0;
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+.user-card-body-right-button {
+    padding-left: 10px;
+    padding-bottom: 16px;
+    box-sizing: border-box;
+}
+
+.user-card-body-right-button>button {
+    width: 102px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+
+.user-card-body-right-button>button:nth-child(1) {
+    background-color: #00b5e5;
+    color: white;
+}
+
+.user-card-body-right-button>button:nth-child(1):hover {
+    background-color: #00a1d6;
+    color: white;
+    transition: 700ms;
+}
+
+.user-card-body-right-button>button:nth-child(2) {
+    background-color: white;
+    border: #ccd0d7 solid 1px;
+}
+
+.user-card-body-right-button>button:nth-child(2):hover {
+    color: white;
+    transition: 700ms;
+}
+
+.user-card-body-right-button>button:nth-child(2):hover {
+    border-color: #00b5e5;
+    color: #00b5e5;
 }
