@@ -60,3 +60,23 @@
   - `_self` 默认值，在相同的框架中打开
   - `_parent` 在父框架中打开
   - `_top` 在整个窗口中打开
+
+
+## flex
+### wrap 包裹 换行
+- `nowrap` 不换行
+- `wrap` 换行
+### `justify-content` 主轴对齐方式
+- `flex-start` 左对齐
+- `flex-end` 右对齐
+- `center` 居中
+- `space-between` 两端对齐
+- `space-around` 两侧对齐
+- `space-evenly` 两侧对齐，元素之间的间距相等
+- ---
+
+## 响应式布局
+- `@media` 媒体查询
+- `min-width` 最小宽度
+- `max-width` 最大宽度
+
