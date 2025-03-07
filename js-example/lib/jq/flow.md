@@ -49,3 +49,16 @@ $.ajax({
 - 与`setInterval`类似，但是更加节省资源
 - 一般用于动画效果
 - 在浏览系下一次渲染前执行
+
+### `webSocket`
+- 一种网络通信协议
+- 优点：实时性高，双向通信
+- 缺点：不支持低版本浏览器
+- 用途：聊天室，直播间
+- 与`http`不同，`http`是单向通信(如`ajax`)，`webSocket`是双向通信。
+- `http->https`  `ws->wss`
+
+### `canvas`
+- 画布，可以绘制图形
+- https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial
+- 用途：游戏，图表.

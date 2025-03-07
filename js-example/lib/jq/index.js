@@ -8,11 +8,9 @@ let main = function () {
     });
 
     let $div2 = $('.cc');
-    $div2.click(function () {
-        let interval = setInterval(function () {
-            console.log("hhh")
-        }, 2000);
-        clearInterval(interval);
+    $div2.click(function () {  
+        // window.open("https://www.acwing.com")
+        location.reload()
     });
     
 
